@@ -14,4 +14,5 @@
 </ol>
 <h2>Graphs are used in modern software development very much.The example usage of graphs is <strong>Facebook</strong> social network.</h2>
 
-![Graph_Implementation](https://github.com/MuradMT/Graph_Implementation/assets/92033053/c3f13c0e-1232-4832-a4e8-c313cc91926b)
+![Graph_Implementation](https://github.com/MuradMT/Graph_Implementation/assets/92033053/8e8d5059-5455-48c7-aee2-4c5a03ce99ae)
+
