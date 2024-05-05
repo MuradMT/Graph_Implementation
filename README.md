@@ -13,4 +13,5 @@
 <li>Adjecency Matrix</li>
 </ol>
 <h2>Graphs are used in modern software development very much.The example usage of graphs is <strong>Facebook</strong> social network.</h2>
-<img src="![Graph_Implementation](https://github.com/MuradMT/Graph_Implementation/assets/92033053/c3f13c0e-1232-4832-a4e8-c313cc91926b)">
+
+![Graph_Implementation](https://github.com/MuradMT/Graph_Implementation/assets/92033053/c3f13c0e-1232-4832-a4e8-c313cc91926b)
